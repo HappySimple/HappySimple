@@ -1,6 +1,6 @@
 ### 个人博客
 
-Hi, welcome to my [blog](https://www.happysimple.club/)🤪!
+Hi, welcome to my [blog](https://www.happysimple.club/) 🤪!
 
 
 
