@@ -1,15 +1,7 @@
 ### 个人博客
 
-Hi, welcome to my blog🤪!
+Hi, welcome to my [blog](https://www.happysimple.club/)🤪!
 
-<div style="display:inline-block; width: 300px; border: 2px solid black; border-radius: 5px;">
-    <div style="text-align: center; margin: 10px auto 30px;">
-    <a href="https://www.happysimple.club/" style="text-decoration: none;">HappySimple</a>
-    </div>
-    <div style="text-align: center; margin: 10px;">
-    <span>做自己热爱，让心欢喜的事!</span>
-    </div>
-</div>
 
 
 
