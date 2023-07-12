@@ -6,8 +6,9 @@
 <!-- 动图  -->
 
 <div align="center">
-    <img src="./assets/images/duck.gif">
+    <img src="./assets/images/duck.gif" style="width: 200px;">
 </div>
+
 <!-- 个人资料徽标 : https://shields.io/ -->
 
 <div align="left">
@@ -27,34 +28,34 @@
 
 ## 🤪关于我
 
-<img align="right" width="88" src="/assets/images/favicon-like.png" />
+<img align="right" width="90px" src="/assets/images/favicon-like.png" />
 
-大家好，我是开心同学！
+<p>大家好，我是开心同学！</p>
 
-我嘞，热爱编程，喜欢折腾，极简主义！
+<p>我嘞，热爱编程，喜欢折腾，极简主义！</p>
 
-让我们一起做自己热爱，让心欢喜的事吧！
+<p>让我们一起做自己热爱，让心欢喜的事吧！</p>
 
-</tr></td>
+</td></tr>
 
 
 
 <tr><td>
 
-## 我的作品
+## ⚽我的作品
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=HappySimple&repo=Typora-theme-Happysimple)](https://github.com/HappySimple/Typora-theme-Happysimple)
 
-</tr></td>
+</td></tr>
 
 
 
 <tr><td>
 
-## Github概况
+## 👀Github概况
 
 <div style="text-align: center">
     <img src="https://github-readme-stats.vercel.app/api?username=HappySimple&show_icons=true&theme=vue" style="height: 150px; display:inline;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappySimple&layout=donut&langs_count=6" style="height: 150px; display:inline;"/>
 </div>
-</tr></td>
+</td></tr>
