@@ -20,6 +20,10 @@
 
 
 
+
+
+<!-- Hello -->
+
 # 👋Hello
 
 <table>
@@ -55,7 +59,21 @@
 ## 👀Github概况
 
 <div style="text-align: center">
+<!-- Github概况: https://github.com/anuraghazra/github-readme-stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=HappySimple&show_icons=true&theme=vue" style="height: 150px; display:inline;"/>
+<!-- 常用语言统计: https://github.com/anuraghazra/github-readme-stats -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappySimple&layout=donut&langs_count=6" style="height: 150px; display:inline;"/>
 </div>
+
+
+<!-- Github活动图:  https://github.com/Ashutosh00710/github-readme-activity-graph/ -->
+
+[![HappySimple's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HappySimple&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<!-- 访客: https://visitor-badge.glitch.me/#docs -->
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
+
 </td></tr>
+</table>
