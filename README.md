@@ -1,9 +1,3 @@
-<!-- 访问次数 -->
-
-<img align="right" width="200px" src="https://profile-counter.glitch.me/HppySimple/count.svg" />
-
-
-
 <!-- 动态打字效果: https://github.com/DenverCoder1/readme-typing-svg -->
 
 <div align="center">
@@ -13,16 +7,8 @@
 </div>
 
 
-<!-- 个人资料徽标 : https://shields.io/ -->
-
-<div align="left">
-  <a href="https://happysimple.club/"><img src="https://img.shields.io/badge/我的博客-happysimple.club-green" /></a>
-  <a href="https://happysimple.club/"><img src="https://img.shields.io/badge/Github-HappySimple-blue" /></a>
-</div>
-
-
-
 <table>
+
 
 <tr><td>
 
@@ -56,7 +42,7 @@
 
 <tr><td>
 
-## 📊我的技术栈
+## 📊常用工具
 
 - HTML
 - CSS
@@ -64,6 +50,7 @@
 - Matlab
 - Python
 - GMT
+- Markdown
 
 </td></tr>
 
@@ -81,12 +68,8 @@
 <!-- 常用语言统计: https://github.com/anuraghazra/github-readme-stats -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HappySimple&layout=donut&langs_count=6" style="height: 200px; display:inline;"/>
 </div>
-
-
-<!-- Github活动图:  https://github.com/Ashutosh00710/github-readme-activity-graph/ -->
-
-[![HappySimple's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HappySimple&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </td></tr>
+
+
 
 </table>
