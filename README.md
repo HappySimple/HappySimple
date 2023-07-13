@@ -1,3 +1,9 @@
+<!-- 访问次数 -->
+
+<img align="right" width="200px" src="https://profile-counter.glitch.me/HppySimple/count.svg" />
+
+
+
 <!-- 动态打字效果: https://github.com/DenverCoder1/readme-typing-svg -->
 
 <div align="center">
@@ -7,36 +13,34 @@
 </div>
 
 
-<!-- 动图  -->
-
-<div align="center">
-    <img src="./assets/images/duck.gif" style="width: 200px;">
-</div>
-
-
 <!-- 个人资料徽标 : https://shields.io/ -->
 
 <div align="left">
-  <a href="https://happysimple.club/"><img src="https://img.shields.io/badge/我的博客-HappySimple-blue" /></a>
+  <a href="https://happysimple.club/"><img src="https://img.shields.io/badge/我的博客-happysimple.club-green" /></a>
+  <a href="https://happysimple.club/"><img src="https://img.shields.io/badge/Github-HappySimple-blue" /></a>
 </div>
 
 
-# 👋Hello
 
 <table>
+
 <tr><td>
 
-## 🤪关于我
+## ✒️关于我
 
 <img align="right" width="90px" src="/assets/images/favicon-like.png" />
 
-<p>大家好，我是开心同学！</p>
+🤪大家好，我是开心同学！
 
-<p>我嘞，热爱编程，喜欢折腾，极简主义！</p>
+🔮我嘞，热爱编程，喜欢折腾，极简主义！
 
-<p>让我们一起做自己热爱，让心欢喜的事吧！</p>
+🧨让我们一起做自己热爱，让心欢喜的事吧！
 
 </td></tr>
+
+
+
+
 
 <tr><td>
 
@@ -45,6 +49,27 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=HappySimple&repo=Typora-theme-Happysimple)](https://github.com/HappySimple/Typora-theme-Happysimple)
 
 </td></tr>
+
+
+
+
+
+<tr><td>
+
+## 📊我的技术栈
+
+- HTML
+- CSS
+- Vue
+- Matlab
+- Python
+- GMT
+
+</td></tr>
+
+
+
+
 
 <tr><td>
 
@@ -63,4 +88,5 @@
 [![HappySimple's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HappySimple&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </td></tr>
+
 </table>
