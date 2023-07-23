@@ -72,8 +72,6 @@
 
 ## 👀Github概况
 
-<img src="https://ghchart.rshah.org/ce983b/HappySimple" alt="2023 HappySimple's Blue Github Chart" />
-
 <div style="text-align: center">
 <!-- Github概况: https://github.com/anuraghazra/github-readme-stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=HappySimple&show_icons=true&theme=vue" style="height: 180px; display:inline;margin-right:10px;"/>
