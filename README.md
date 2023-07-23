@@ -25,7 +25,7 @@
 
 <div style="text-align: left;">
 <a href="https://www.happysimple.club">
-<img alt="Static Badge" src="https://img.shields.io/badge/Blog-HappySimple-green">
+<img alt="Static Badge" src="https://img.shields.io/badge/Blog-HappySimple-green?style=flat-square">
 </a>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
 <img alt="" src="https://komarev.com/ghpvc/?username=HappySimple&style=flat-square&label=Profile+views&color=orange">
