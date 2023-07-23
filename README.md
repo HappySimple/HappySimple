@@ -22,6 +22,16 @@
 
 🧨既活于世，那就做自己热爱，让心欢喜的事吧！
 
+
+<div style="text-align: left;">
+<a href="https://www.happysimple.club">
+<img alt="Static Badge" src="https://img.shields.io/badge/Blog-HappySimple-green">
+</a>
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<img alt="" src="https://komarev.com/ghpvc/?username=HappySimple&style=flat-square&label=Profile+views&color=orange">
+</a>
+</div>
+
 </td></tr>
 
 
