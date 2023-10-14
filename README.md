@@ -16,11 +16,9 @@
 
 <img align="right" width="90px" src="/assets/images/favicon-like.png" />
 
-🤪大家好，我是开心同学！
+🤪大家好，我是HappySimple！
 
-🔮我嘞，热爱编程，喜欢折腾，极简主义！
-
-🧨既活于世，那就做自己热爱，让心欢喜的事吧！
+🔮我嘞，热爱编程，喜欢折腾，极简主义！往后余生，希望做自己热爱，让心欢喜的事！
 
 <div style="text-align: left;">
 <a href="https://www.happysimple.wang">
